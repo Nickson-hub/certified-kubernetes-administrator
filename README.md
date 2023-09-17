@@ -28,6 +28,8 @@ Welcome to the community again and we look forward to see you certified! :)
 | 7 | [Logging and Monitoring][PlDh] |
 | 8 | [Troubleshooting][PlDi] |
 
+
+
    [PlDa]: <https://github.com/zealvora/certified-kubernetes-administrator/tree/master/Domain%201%20-%20Core%20Concepts>
    [PlDb]: <https://github.com/zealvora/certified-kubernetes-administrator/tree/master/Domain%202%20-%20Workloads%20%26%20Scheduling>
    [PlDc]: <https://github.com/zealvora/certified-kubernetes-administrator/tree/master/Domain%203%20-%20Services%20and%20Networking>
